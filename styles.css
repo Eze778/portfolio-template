@@ -220,14 +220,14 @@ footer {
   border-radius: 5px;
   display: flex;
   flex-direction: column;
-  padding-top: 40px;
+  padding-top: 10px;
   }
   .tech-icon-list {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 0px 60px;
+  padding: 0px 10px;
   }
   .tech-icon-list-end {
   display: flex;
@@ -238,14 +238,14 @@ footer {
   .tech-icon-item {
   display: flex;
   flex-direction: column;
-  margin-right: 80px;
-  margin-bottom: 80px;
+  margin-right: auto;
+  margin-bottom: auto;
   align-items: center;
   }
   .tech-icon-item-end {
   display: flex;
   flex-direction: column;
-  margin-bottom: 80px;
+  margin-bottom: auto;
   align-items: center;
   }
   span {
